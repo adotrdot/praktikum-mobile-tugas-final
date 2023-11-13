@@ -1,0 +1,7 @@
+{
+  "name": "sinau_crud_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
